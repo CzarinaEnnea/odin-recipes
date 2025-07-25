@@ -11,3 +11,6 @@ First Project in the Foundations Course where I'll use what I learned in HTML.
     - Used strong, em and footer tag
     - Tried to follow the conventional commits template (I'm not sure if I'm doing it right)
     - Adding alt in images and img folder for file structure
+
+# Live Preview
+<a href="https://czarinaennea.github.io/odin-recipes/index.html">here</a>
