@@ -1,7 +1,7 @@
-# odin-recipes
+# Odin Recipes
 The Odin Project: Foundation Recipes Assignment
 
-First Project in the Foundations Course where I'll use what I learned in HTML.
+First Assignment in the "The Odin Project" [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) where I'll use what I learned in HTML.
 
 # Things I Did Outside of the Requirements:
     - Linking absolute webpages to show sources of the recipes
@@ -11,3 +11,6 @@ First Project in the Foundations Course where I'll use what I learned in HTML.
     - Used strong, em and footer tag
     - Tried to follow the conventional commits template (I'm not sure if I'm doing it right)
     - Adding alt in images and img folder for file structure
+
+# Live Preview
+You can view the website [here](https://czarinaennea.github.io/odin-recipes/index.html)
